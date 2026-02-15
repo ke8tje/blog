@@ -1,6 +1,6 @@
 ---
 title: "Bike stuff"
-permalink: /Bike stuff/
+permalink: /Bike-stuff/
 layout: tags
 author_profile: true
 ---
